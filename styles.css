@@ -17,3 +17,24 @@ body{
   background-color:rgba(0,0,0,0.1);
   transform:scale(0.7);
   }
+
+  .planet{
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+    position: relative;
+    background-color: #ff9933;
+    top:45px;
+    left:220px;
+  }
+
+  .r1{
+    background-color: #ffbf80;
+    height:20px;
+    width:110px;
+    border-radius:10px;
+    position: relative;
+    top:60px;
+    left:85px;
+  }
+  
