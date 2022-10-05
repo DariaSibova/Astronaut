@@ -152,3 +152,36 @@ transform: translateY(30px);
     transform: rotate(-30deg);
   }
   
+  .helmet{
+    background-color: white;
+    height:93px;
+    width:100px;
+    border-radius:45%;
+    position: relative;
+    left:20px;
+    z-index: 5;
+  }
+  
+  .glass{
+    background-color: #666666;
+    height:60px;
+    width:80px;
+    border-top-left-radius:60%;
+    border-top-right-radius:60%;
+    border-bottom-left-radius:40%;
+    border-bottom-right-radius:40%;
+    position: relative;
+    left:10px;
+    top:7px;
+  }
+  
+  .shine{
+    background-color: rgba(166, 166, 166,0.7);
+    height:15px;
+    width:15px;
+    border-radius: 50%;
+    position: relative;
+    left:10px;
+    top:15px;
+  }
+  
