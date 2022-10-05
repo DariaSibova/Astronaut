@@ -88,4 +88,13 @@ body{
     left: 10px;
   }
 
+  .r7{
+    background-color: rgba(204, 102, 0, 0.3);
+    height: 15px;
+    width: 45px;
+    border-radius: 7.5px;
+    position: relative;
+    top: 40px;
+    left: 130px
+  }
   
