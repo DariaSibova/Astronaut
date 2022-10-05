@@ -125,3 +125,12 @@ right: 16px;
     bottom: 250px;
     transform: rotate(-30deg);
   }
+
+  .an{
+    animation-name: flo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 80px;
+    left: 20px;
+  }
