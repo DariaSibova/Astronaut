@@ -68,4 +68,14 @@ body{
     left:12px;
   }
   
+  .r5{
+    background-color: rgba(204,102,0,0.3);
+    height: 15px;
+    width: 40px;
+    border-radius: 7.5px;
+    position: relative;
+    bottom: 50px;
+    left: 70px;
+  }
+  
   
