@@ -134,3 +134,9 @@ right: 16px;
     bottom: 80px;
     left: 20px;
   }
+
+  @keyframes flo{
+    50%{
+transform: translateY(30px);
+    }
+  }
