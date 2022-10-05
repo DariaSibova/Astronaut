@@ -251,3 +251,9 @@ transform: translateY(30px);
     bottom: 1px;
     right: 16px;
   }
+
+  .glovel{
+    height: 28px;
+    width: 26px;
+    background-color: white;
+  }
