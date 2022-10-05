@@ -38,3 +38,13 @@ body{
     left:85px;
   }
   
+  .r2{
+    background-color: #ffbf80;
+    height: 15px;
+    width:90px;
+    border-radius:6.5px;
+    position: relative;
+    top:80px;
+    left:110px;
+  }
+  
