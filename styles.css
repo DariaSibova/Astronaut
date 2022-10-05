@@ -224,4 +224,7 @@ transform: translateY(30px);
     background-color: #f2f2f2;
     border-radius: 26px;
     position: relative;
+    bottom: 18px;
+    left: 35px;
+    transform: rotate(90deg);
   }
