@@ -228,3 +228,15 @@ transform: translateY(30px);
     left: 35px;
     transform: rotate(90deg);
   }
+
+  .handl1{
+    height: 26px;
+    width:57px;
+    background-color: #f2f2f2;
+    border-radius:26px;
+    position: relative;
+    bottom: 17px;
+    right:17px;
+    transform: rotate(-90deg);
+  }
+  
