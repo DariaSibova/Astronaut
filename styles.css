@@ -78,4 +78,14 @@ body{
     left: 70px;
   }
   
+  .r6{
+    background-color: rgba(204, 102, 0, 0.3);
+    height: 20px;
+    width: 60px;
+    border-radius: 11px;
+    position: relative;
+    bottom: 25px;
+    left: 10px;
+  }
+
   
