@@ -97,4 +97,13 @@ body{
     top: 40px;
     left: 130px
   }
-  
+
+  .r8{
+    background-color: rgba(255,255, 255, 0.4);
+    height: 12px;
+    width: 30px;
+    border-radius: 7.5px;
+    position: relative;
+    top: 7px;
+    left: 32px
+  }
