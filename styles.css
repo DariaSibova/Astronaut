@@ -107,3 +107,14 @@ body{
     top: 7px;
     left: 32px
   }
+
+  .shad{
+background-color: transparent;
+box-shadow: 15px 15px rgba(204,102,0,0.3);
+position: relative;
+height: 200px;
+width: 200px;
+border-radius: 50%;
+bottom: 164px;
+right: 16px;
+  }
