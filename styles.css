@@ -60,6 +60,12 @@ body{
 
   .r4{
     background-color: #ffbf80;
-    height: 22px;
+    height:22px;
+    width:90px;
+    border-radius:11px;
+    position: relative;
+    top:70px;
+    left:12px;
   }
+  
   
