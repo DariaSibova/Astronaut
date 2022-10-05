@@ -47,4 +47,19 @@ body{
     top:80px;
     left:110px;
   }
+
+  .r3{
+    background-color: #ffbf80;
+    height: 30px;
+    width: 120px;
+    border-radius: 15px;
+    position: relative;
+    top: 78px;
+    left: 50px;
+  }
+
+  .r4{
+    background-color: #ffbf80;
+    height: 22px;
+  }
   
