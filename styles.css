@@ -140,3 +140,15 @@ right: 16px;
 transform: translateY(30px);
     }
   }
+
+  .tank{
+    background-color: #a6a6a6;
+    height:120px;
+    width:120px;
+    border-radius: 10px;
+    position: relative;
+    left:95px;
+    top:50px;
+    transform: rotate(-30deg);
+  }
+  
