@@ -206,3 +206,14 @@ transform: translateY(30px);
     left: 95px;
     transform: rotate(-20deg);
   }
+
+  .handl{
+    height: 26px;
+    width: 75px;
+    background-color: #f2f2f2;
+    border-radius: 40px;
+    position: relative;
+    bottom: 111px;
+    right: 29px;
+    transform: rotate(20deg);
+  }
