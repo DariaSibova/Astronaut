@@ -118,3 +118,10 @@ border-radius: 50%;
 bottom: 164px;
 right: 16px;
   }
+
+  .astro{
+    position: relative;
+    left: 131px;
+    bottom: 250px;
+    transform: rotate(-30deg);
+  }
