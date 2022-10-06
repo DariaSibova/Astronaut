@@ -264,3 +264,14 @@ transform: translateY(30px);
     left:42px;
   
   }
+
+  .thumbr{
+    height: 10px;
+    width:10px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    right:7px;
+    top:19px;
+  }
+  
