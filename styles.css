@@ -256,4 +256,11 @@ transform: translateY(30px);
     height: 28px;
     width: 26px;
     background-color: white;
+    border-top-left-radius:50%; 
+    border-top-right-radius:50%;
+    transform: rotate(90deg);
+    position: relative;
+    bottom: 1px;
+    left:42px;
+  
   }
