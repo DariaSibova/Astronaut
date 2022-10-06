@@ -315,3 +315,42 @@ transform: translateY(30px);
     left:23px;
   }
   
+  .btn1{
+    height:12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: #4775ff;
+    position: relative;
+    left:5px;
+    top:10px;
+  }
+  .btn2{
+    height:12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: #ffd147;
+    position: relative;
+    left:21px;
+    bottom:2px;
+  }
+  
+
+  .btn3{
+    height:12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: tomato;
+    position: relative;
+    bottom:14px;
+    left:38px;
+  }
+  .btn4{
+    height:20px;
+    width:20px;
+    border-radius: 50%;
+    background-color: #a6a6a6;
+    position: relative;
+    left:19px;
+    top:4px;
+  }
+  
