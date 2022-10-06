@@ -364,3 +364,13 @@ transform: translateY(30px);
     transform: rotate(20deg);
   }
   
+  .legr{
+    height:100px;
+    width:40px;
+    background-color: #f2f2f2;
+    position: relative;
+    bottom: 168px;
+    left:96px;
+    transform: rotate(-20deg);
+  }
+  
