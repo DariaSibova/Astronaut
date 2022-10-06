@@ -295,3 +295,13 @@ transform: translateY(30px);
     right: 1px;
   }
   
+  .b2{
+    background-color: tomato;
+    width:28px;
+    height:5.5px;
+    border-radius:13px;
+    position: relative;
+    top:18px;
+    right: 1px;
+  }
+  
