@@ -385,3 +385,14 @@ transform: translateY(30px);
     right:1.5px;
   }
   
+  .bootr1{
+    background-color: white;
+    width: 43px;
+    height:35px;
+    border-top-left-radius: 50%;
+    border-top-right-radius:50%;
+    position: relative;
+    top:65px;
+    right:1.5px;
+  }
+  
