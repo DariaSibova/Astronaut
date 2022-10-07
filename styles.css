@@ -416,3 +416,16 @@ transform: translateY(30px);
     right: 1.5px;
   }
   
+  .pipe{
+    background-color:  transparent;
+    height:80px;
+    width:80px;
+    border:10px solid #4775ff;
+    border-radius:40px 0px 0px 70px;
+    border-right: none;
+    transform: rotate(180deg);
+    position: relative;
+    bottom: 330px;
+    left:130px;
+  }
+  
