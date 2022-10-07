@@ -396,3 +396,23 @@ transform: translateY(30px);
     right:1.5px;
   }
   
+  .bootl2{
+    background-color: tomato;
+    width:45px;
+    height: 5px;
+    border-radius:21px;
+    position: relative;
+    top:30px;
+    right: 1.5px;
+  }
+  
+  .bootr2{
+    background-color: tomato;
+    width:45px;
+    height: 5px;
+    border-radius:21px;
+    position: relative;
+    top:30px;
+    right: 1.5px;
+  }
+  
