@@ -461,3 +461,38 @@ transform: translateY(30px);
     position: relative;
   }
   
+  .s1{
+    bottom:150px;
+    left:200px;
+  }
+  .s2{
+    top:130px;
+    left:254px;
+  }
+  .s3{
+    bottom:98px;
+    left:65px;
+  }
+  .s4{
+    top: 216px;
+    left:249px;
+  }
+  .s5{
+    top: 139px;
+    left:100px;
+  }
+  .s6{
+    top:60px;
+    left:370px;
+  }
+  a{
+      color: white;
+      font-size: 25px;
+      font-family: "Rubik",sans-serif;
+      position:absolute;
+      right:20px ;
+      top:20px;
+      padding:8px 12px 8px 12px;
+      border:2px solid white;
+      text-decoration:none;
+  }
